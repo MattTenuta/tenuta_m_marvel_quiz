@@ -1,4 +1,4 @@
-![marvel_quiz](Marvel_Logo.svg "Marvel Quiz")
+![marvel_logo](marvel_logo.jpg "Marvel Quiz")
 
 ## Marvel Quiz - Test your knowledge on everyones favorite Marvel Characters
 
