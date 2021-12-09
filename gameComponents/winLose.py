@@ -14,16 +14,25 @@ def avengerStatus():
         print("Not even close. You probably like DC more than marvel")
 
     elif gameVars.avengerPoints == 3:
-        print("You are barely an Avenger")
+        print("You will have to do better than that if you want to be an Avenger")
             
     elif gameVars.avengerPoints == 4:
-        print("I guess you can be considered an Avenger")
+        print("I wouldn't consider you to be an Avenger")
 
     elif gameVars.avengerPoints == 5:
+        print("You might barely qualify to be an Avenger")
+    
+    elif gameVars.avengerPoints == 6:
+        print("You are somewhat an Avenger")
+    
+    elif gameVars.avengerPoints == 7:
+        print("I guess you can be considered an Avenger")
+
+    elif gameVars.avengerPoints == 8:
         print("You are the chosen one. A true Avenger is upon us")
 
-        print("==============================")
-        print("Thanks you for playing")
+    print("==============================")
+    print("Thanks you for playing")
 
     choice = input("Do you want to play again? y/n: ")
 
